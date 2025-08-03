@@ -3,7 +3,7 @@
 <span align="left"><img src="https://i.gifer.com/NYRi.gif" alt="glitch" width="26%"></span>
 <span align="left"><img src="https://github.com/4zaax/4zaax/blob/main/terminal%20(2).gif" alt="Greeting Exchange" width="61%"></span>
 </div>
-<img src="https://github-readme-stats-4zaax.vercel.app/api/top-langs/?username=4zaax&layout=compact&count_private=true" />
+<img src="https://github-readme-stats-git-master-4zaaxs-projects.vercel.app/api/top-langs/?username=4zaax&layout=compact&count_private=true" />
 
 
 
