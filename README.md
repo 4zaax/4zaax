@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="center">
-<img src="https://github-readme-stats-psi-peach-90.vercel.app/api/top-langs/?username=4zaax&layout=compact&count_private=true" />
+<img src="https://github-readme-stats-psi-peach-90.vercel.app/api/top-langs/?username=4zaax&count_private=true" />
 </div>
 
 
