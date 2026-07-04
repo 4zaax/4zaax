@@ -88,3 +88,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4zaax/4zaax/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
