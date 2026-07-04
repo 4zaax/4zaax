@@ -11,7 +11,7 @@ on:
   # Run on every push to the main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -21,13 +21,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates the pacman svg files
+      # Generates the pacman/snake svg files into the 'dist' directory
       - name: generate-pacman-svg
-        uses: abozanona/pacman-contri@v1.2.0
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # The output files will be saved in the 'github-pages' branch
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Deploy the generated files to a separate branch so they can be linked
       - name: push github-contribution-grid-snake.svg to the output branch
