@@ -88,4 +88,3 @@
   </a>
 </p>
 
-![Pacman Contributions](https://raw.githubusercontent.com/4zaax/4zaax/output/github-contribution-grid-snake.svg)
