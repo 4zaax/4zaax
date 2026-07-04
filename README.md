@@ -87,3 +87,5 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&color=E4405F" alt="Instagram" height="35" style="margin: 0 12px;" />
   </a>
 </p>
+
+![Pacman Contributions](https://raw.githubusercontent.com/4zaax/4zaax/output/github-contribution-grid-snake.svg)
